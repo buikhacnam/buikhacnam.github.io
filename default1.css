@@ -289,7 +289,7 @@ ul {
 }
 
 #social_img{
-    width: 100%;
+    width: 50%;
 }
 
 @media screen and (max-width: 1200px){ /* if window is equal or less than 1200 */
