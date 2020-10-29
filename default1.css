@@ -18,10 +18,12 @@
 html, body {
     padding: 0;
     margin: 0;
+    background-color: var(--mainColor);
 }
 
 body *{
     transition: 0.3s;
+    background-color: var(--mainColor);
 }
 
 
@@ -55,7 +57,8 @@ ul {
 .s1 {
     background-color: var(--mainColor);
     border-bottom: 1px solid var(--borderColor);
-    overflow: auto;
+ 
+    height: 100vh;
 }
 
 .s2 {
